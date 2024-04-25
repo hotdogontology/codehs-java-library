@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="codehs-java-library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HelloWorldTerminal.zip!/" />
+      <root url="jar://$PROJECT_DIR$/HelloWorldBluejay.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Hello.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
